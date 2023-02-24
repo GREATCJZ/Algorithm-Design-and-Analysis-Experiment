@@ -1,5 +1,5 @@
 # Algorithm-Design-and-Analysis-Experiment
-use python complete all the ex. The lab 6 is a easy project with gui. (PYQT develop)
+主要使用的语言为Python，ex6采用了PYQT作为前端GUI开发。
 
 Ex1:
 用排序算法解排序问题	4	应用几种排序算法求解排序问题，并比较不同排序算法在各种不同问题大小情况下的效率，要画出这些算法对应效率图。(具体要求：指定数据个数n， 然后随机生成一类型的初始化数据，利用几种不同的排序算法对其进行排序，输出相应的结果以及所用的时间，改变n再用同样的这几类排序算法完成排序，根据结果画出对应算法的n-t图，比较其效率差别。)
